@@ -7,6 +7,7 @@
   home.packages = [
     pkgs.bash-completion
     pkgs.bats
+    pkgs.conftest
 
     pkgs.tenv
 
